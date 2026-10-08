@@ -8,7 +8,7 @@
 
 ---
 
-### 💼 Profesyonel Özet
+### Profesyonel Özet
 Ostim Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Gamador İnşaat A.Ş. bünyesinde yazılım test sorumlusu olarak gerçekleştirdiğim staj sürecinde yazılım doğrulama, kalite güvence ve test süreçlerinde pratik deneyim kazandım. 
 
 Akademik ve uygulamalı projelerim kapsamında; **NOMAD (Verified Travel & Hospitality Ecosystem)** projesinde yazılım gereksinim sorumlusu olarak görev aldım. Bunun yanı sıra **Light Up (Ortam Işıklandırma Entegrasyonu)** projesinde ekran görüntüsündeki piksel verilerini gerçek zamanlı işleyerek dinamik ortam aydınlatması sağlayan yazılım ve donanım mimarisinin tasarımı, geliştirilmesi ve entegrasyon süreçlerinde yer aldım. 
@@ -17,7 +17,7 @@ Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network de
 
 ---
 
-### 🛠️ Teknik Yetkinlikler ve Uzmanlık Alanları
+### Teknik Yetkinlikler ve Uzmanlık Alanları
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network de
 
 ---
 
-### 📜 Sertifikalar (Cisco Networking Academy)
+### Sertifikalar (Cisco Networking Academy)
 
 * **Endpoint Security** (Ocak 2026) – *Sistem ve uç nokta koruması, ortak ağ saldırılarının önlenmesi.*
 * **Network Defense** (Ocak 2026) – *Ağ güvenliği, güvenlik duvarları, olay izleme ve savunma mekanizmaları.*
@@ -41,7 +41,7 @@ Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network de
 
 ---
 
-### 📊 GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ardaaslantekin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -56,7 +56,7 @@ Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network de
 
 ---
 
-### 📬 İletişim
+### İletişim
 
 <p align="center">
   <a href="https://linkedin.com/in/arda-aslantekin-077b0833b" target="_blank">
