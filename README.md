@@ -9,7 +9,11 @@
 ---
 
 ### 💼 Profesyonel Özet
-Ostim Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Kurumsal düzeyde yazılım test süreçleri ve kalite güvence alanındaki staj deneyimimin yanı sıra; Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network defense) ve uç nokta güvenliği (endpoint security) alanlarında yetkinlik kazanmış bulunmaktayım. Güvenli, ölçeklenebilir ve temiz mimariye sahip yazılım sistemleri geliştirmeyi hedefliyorum.
+Ostim Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Gamador İnşaat A.Ş. bünyesinde yazılım test sorumlusu olarak gerçekleştirdiğim staj sürecinde yazılım doğrulama, kalite güvence ve test süreçlerinde pratik deneyim kazandım. 
+
+Akademik ve uygulamalı projelerim kapsamında; **NOMAD (Verified Travel & Hospitality Ecosystem)** projesinde yazılım gereksinim sorumlusu olarak görev aldım. Bunun yanı sıra **Light Up (Ortam Işıklandırma Entegrasyonu)** projesinde ekran görüntüsündeki piksel verilerini gerçek zamanlı işleyerek dinamik ortam aydınlatması sağlayan yazılım ve donanım mimarisinin tasarımı, geliştirilmesi ve entegrasyon süreçlerinde yer aldım. 
+
+Cisco Networking Academy bünyesinde siber güvenlik, ağ savunması (network defense) ve uç nokta güvenliği (endpoint security) alanlarında yetkinlik kazanmış bulunmaktayım. Güvenli, ölçeklenebilir ve temiz mimariye sahip yazılım sistemleri geliştirmeyi hedefliyorum.
 
 ---
 
@@ -19,16 +23,16 @@ Ostim Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. K
 
 | Kategori | Yetkinlikler / Teknolojiler |
 | :--- | :--- |
-| **Yazılım Dilleri & Çekirdek** | `Python`, `C#`, `C`, `SQL`,`C++` |
+| **Yazılım Dilleri & Çekirdek** | `Java`, `Python`, `C#`, `JavaScript`, `SQL` |
 | **Siber Güvenlik & Ağlar** | `Network Defense`, `Endpoint Security`, `Cyber Threat Management`, `Ağ Güvenliği Altyapısı`, `Güvenlik Duvarları (Firewalls)` |
-| **Yazılım Testi & Kalite Güvence** | Manuel & Otomasyon Testi, Hata Yönetimi, Test Senaryoları |
+| **Yazılım Testi & Kalite Güvence** | Manuel & Otomasyon Testi, Hata Yönetimi, Test Senaryoları, Doğrulama |
 | **Araçlar & Sürüm Kontrolü** | `Git`, `GitHub`, `Postman`, `Docker` |
 
 </div>
 
 ---
 
-### 📜 Sertifikalar & Başarılar (Cisco Networking Academy)
+### 📜 Sertifikalar (Cisco Networking Academy)
 
 * **Endpoint Security** (Ocak 2026) – *Sistem ve uç nokta koruması, ortak ağ saldırılarının önlenmesi.*
 * **Network Defense** (Ocak 2026) – *Ağ güvenliği, güvenlik duvarları, olay izleme ve savunma mekanizmaları.*
